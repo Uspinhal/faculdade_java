@@ -56,7 +56,7 @@ class CalculadorArea{
         System.out.println("Area quadrado com 2.5cm de lado: " + areaQuadrado(2.5) + "cm2");
         System.out.println("Area triangulo reto com 4cm de lado: " + areaTrianguloReto(4.0) + "cm2");
         System.out.println("Area paralelogramo com 4cm de base e 2.5cm de altura: " + areaParalelogramo(4, 2.5) + "cm2");
-        System.out.println("Custo total das peças de reposição: R$ " + custoTotal);
+        System.out.println("Custo total das pecas de reposicao: R$ " + custoTotal);
         System.out.println("Custo para fabricar um Tamgram de 16x16 feito em Metal: R$ " + custoTamgram);
         System.out.println("Custo para fabricar um Temgram de 10.5x10.5 feito em Borracha: R$ " + custoTamgramBorracha);
     }

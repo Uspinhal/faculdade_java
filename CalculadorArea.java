@@ -1,8 +1,20 @@
+/* 
+
+UNIVESP
+PROGRAMAÇÃO DE COMPUTADORES
+SEMANA 2
+EXERCÍCIO DE APOIO 5
+
+PROGRAMA PARA CÁLCULO DE ÁREAS E CUSTO DE PEÇAS COM FORMAS GEOMÉTRICAS DIVERSAS (TAMGRAM)
+
+*/
+
+
+
 //Importação de bibliotecas
 import java.util.Scanner;
 
 class CalculadorArea{
-// Programa para cálculo de áreas e calcular o custo de peças com formas geométricas //
     // Declaração de variáveis globais
     static double custoPlastico = 1.5; // Custo por cm2 de Plástico
     static double custoMetal = 2.5; // Custo por cm2 de metal    

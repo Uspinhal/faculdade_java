@@ -2,6 +2,16 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - ConversorMoedas",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "ConversorMoedas",
+            "args": ""
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - CalculadorArea",
             "request": "launch",
             "cwd": "${workspaceFolder}",
